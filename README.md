@@ -45,8 +45,8 @@ Wireframing | Prototyping | Design Systems | Accessibility
 ---
 
 ## 🤝 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_LINKEDIN) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)](https://richardafanyu.netlify.app)  
+Whatsapp contact: https://wa.link/ezuw7i  
+
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](mailto:your.nurumohammed669@gmail.com)  
 
 ---
